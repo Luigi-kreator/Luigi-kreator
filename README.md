@@ -9,7 +9,7 @@
 </header>
 <div>
   <a href="http://github.com/Luigi-kreator"></a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luigi-kreatori&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luigi-kreator&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luigi-kreator&layout=compact&langs_count=7&theme=merko"/>
 </div>
   
